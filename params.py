@@ -4,7 +4,7 @@ settings = {"site_title":"Demo blog",
 			"input":"./source/",
 			"output":"./output/",
 			"plugins":['sitemap','blog','pyscss',"theme","static"],
-			
+			"title_as_name": False,
 			"static_settings":"",
 			"theme":"./theme/demo/",
 			"blog_settings":{"index_page":"index_blog","nbchar_resume":100,"nb_per_page":7},
