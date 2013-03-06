@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Demo blog</title>
+	<link href="http://demo.url/" rel="alternate"></link>
+	<link href="http://demo.url/feeds/all.atom.xml" rel="self"></link>
+	<id>http://demo.url</id>
+	<updated>2013-03-06T10:48:58.421801</updated>
+	
+	<entry>
+		<title>My First Article</title>
+		<link href="http://demo.url/first_article.html" rel="alternate"></link>
+		<updated>2013-02-03T16:10:00</updated>
+		<author>
+			<name>Valentin Brosseau</name>
+		</author>
+		<id>tag:http://demo.url,2013-02-03:first_article.html</id>
+		<summary type="html">&lt;p&gt;Live Rolling in the deep.&lt;/p&gt;
+&lt;br /&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-fmCoUjOMXU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;</summary>
+		<category term="musique"></category><category term="divers"></category>
+	</entry>
+	
+</feed>
